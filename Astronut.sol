@@ -330,7 +330,7 @@ contract Astronut is IBEP20, Auth {
     address WBNB = 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c;
     address DEAD = 0x000000000000000000000000000000000000dEaD;
     address ZERO = 0x0000000000000000000000000000000000000000;
-    address DEV = 0x371870617Df3D6C8b389650dE35b37D6A1b6FA22;
+    address DEV = 0x1DfF81769CE64301Ed41DAa3615c1860c5D01B30;
 
     string constant _name = "Astronut";
     string constant _symbol = "ASTRO";
